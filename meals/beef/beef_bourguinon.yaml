@@ -1,0 +1,32 @@
+name: beef bourguignon
+source: Marco Pierre White
+links:
+  - https://www.youtube.com/watch?v=x8sS72-N3NY
+  - http://www.knorr.co.uk/recipes/detail/8330/1/boeuf-bourguignon-with-mushrooms
+ingredients:
+  - name: beef brisket
+    quantity: 800g
+  - name: oil
+  - name: onion
+    quantity: 1
+  - name: garlic
+    quantity: whole
+  - name: flour
+    quantity: 1 tablespoon
+  - name: thyme
+  - name: parsley
+  - name: bayleaf
+  - name: celery
+  - name: red wine (bordeaux)
+  - name: port
+  - name: beef stock
+    quantity: 1L
+  - name: bacon
+  - name: mushroom
+instructions:
+  - pan fry beef brisket
+  - remove beef and drain
+  - fry onion
+  - put a bit of flour in
+  - add wine and herbs
+  - reduce to 2/3

@@ -1,0 +1,9 @@
+name: pancakes
+source: Jamie Oliver
+ingredients:
+  - name: flour
+    quantity: 1 cup
+  - name: milk
+    quantity: 1 cup
+  - name: egg
+    quantity: 1

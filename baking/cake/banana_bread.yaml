@@ -1,0 +1,30 @@
+name: Banana Bread
+source: Joy of Baking
+links:
+  - http://www.joyofbaking.com/breakfast/BananaBread.html
+ingredients:
+  - name: flour
+    quantity: 230g
+  - name: white sugar
+    quantity: 150g
+  - name: baking powder
+    quantity: 1 teaspoon
+  - name: baking soda
+    quantity: 1/4 teaspoon
+  - name: salt
+    quantity: 1/4 teaspoon
+  - name: cinnamon
+    quantity: 1 teaspoon
+  - name: eggs
+    quantity: 2 large
+  - name: bananas
+    quantity: 3 large
+  - name: vanilla extract
+    quantity: 1 teaspoon
+  - name: milk
+    quantity: 1/2 cup
+  - name: macadamia nuts (toasted) (optional)
+  - name: chocolate
+instructions:
+  - 400F for 55 - 60 mins
+  - don\'t over mix
