@@ -1,0 +1,21 @@
+name: Spaghetti Carbonara
+source: 
+links:
+  - https://youtu.be/3AAdKl1UYZs
+  - https://youtu.be/ihB53eEwLbs
+ingredients:
+  - name: Guanciale or pancetta
+  - name: pasta
+  - name: eggs
+    quantity: 2
+  - name: parmigiano cheese
+  - name: pepper
+instructions:
+  - boil pasta
+  - wait a bit before pan frying the guanciale
+  - beat 2 eggs and parmesan cheese
+  - Don't add oil to pan
+  - heat pancetta in pan
+  - add pasta to pan
+  - take off heat
+  - add eggs and parmesan cheese mixture to pasta
