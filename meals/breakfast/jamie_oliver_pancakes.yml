@@ -1,5 +1,7 @@
 name: pancakes
 source: Jamie Oliver
+notes:
+  - not as good as the fluffy pancakes from binging with babish
 ingredients:
   - name: flour
     quantity: 1 cup
