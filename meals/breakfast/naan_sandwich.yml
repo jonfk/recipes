@@ -1,12 +1,12 @@
 name: naan sandwich
-source: 
+source: The meat show
 links:
-  - https://www.youtube.com/watch?v=x8sS72-N3NY
   - https://youtu.be/ZegDigCUqQ0?list=PLC32A1978C2A44340
 ingredients:
   - name: naan
   - name: bacon or maple glazed bacon
   - name: cream cheese or goat cheese
   - name: egg (optional)
+  - name: tomato
 instructions:
   - assemble
