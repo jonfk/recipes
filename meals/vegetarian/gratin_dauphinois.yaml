@@ -1,0 +1,21 @@
+name: Gratin Dauphinois
+source: "Jamie Oliver's Quick Potato Dauphinoise"
+links:
+  - https://youtu.be/sX1eGd9BNY4
+ingredients:
+  - name: potatoes
+  - name: red onion
+  - name: cream
+    quantity: 1 cup
+  - name: garlic
+  - name: bay leaves
+  - name: thyme
+  - name: nutmeg
+  - name: anchovies
+  - name: cheese (parmesan, cheddar, etc...)
+instructions:
+  - slice potatoes and chop onion
+  - cook onion and add potatoes to start cooking
+  - add cream, a little nutmeg, bay leaves, thyme and anchovies
+  - put into oven 
+  - add cheese for a little while before the end
