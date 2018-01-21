@@ -1,7 +1,6 @@
-= recipes
-Jonathan Fok kan <jfokkan@gmail.com>
+# recipes
 
 Recipes I have encountered through the internet, passed down my family,
 from friends, etc...
 
-contents.md[Table of Contents]
+[Table of Contents](contents.md)
