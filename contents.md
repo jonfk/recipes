@@ -1,11 +1,11 @@
 
 # baking
 
-- [~](baking/focaccia.yaml)
+- [Focaccia (italian Flat Bread)](baking/focaccia.yaml)
 
 ## cookies
 
-- [Raisin Shortbread cookies](baking/cookies/raisin_shortbread.yaml)
+- [Raisin Shortbread Cookies](baking/cookies/raisin_shortbread.yaml)
 
 ## cake
 
@@ -14,29 +14,29 @@
 
 # desserts
 
-- [Frozen vanilla custard / vanilla ice cream](desserts/vanilla_ice_cream.yml)
+- [Frozen Vanilla Custard / Vanilla Ice Cream](desserts/vanilla_ice_cream.yml)
 
 # meals
 
 - [Biryani](meals/biryani.yaml)
-- [Holiday sausage stuffing](meals/holiday_sausage_stuffing.yaml)
+- [Holiday Sausage Stuffing](meals/holiday_sausage_stuffing.yaml)
 - [~](meals/coconut_rice.yml)
 - [Pork Stir Fry](meals/pork_stir_fry.yaml)
 
 ## korean
 
-- [Budae Jigae (korean army base stew)](meals/korean/korean_army_base_stew_budae_jigae.yml)
+- [Budae Jigae (korean Army Base Stew)](meals/korean/korean_army_base_stew_budae_jigae.yml)
 
 ## vegetarian
 
-- [slow cooked aubergine](meals/vegetarian/slow-cooked-aubergine.yaml)
+- [Slow Cooked Aubergine](meals/vegetarian/slow-cooked-aubergine.yaml)
 - [Gratin Dauphinois](meals/vegetarian/gratin_dauphinois.yaml)
 
 ## beef
 
-- [beef bourguignon](meals/beef/beef_bourguinon.yaml)
+- [Beef Bourguignon](meals/beef/beef_bourguinon.yaml)
 - [Chilli Con Carne](meals/beef/chilli_con_carne.yaml)
-- [cottage pie](meals/beef/cottage_pie.yaml)
+- [Cottage Pie](meals/beef/cottage_pie.yaml)
 
 ## japanese
 
@@ -44,29 +44,29 @@
 
 ## duck
 
-- [Thai duck red curry](meals/duck/thai_duck_red_curry.yaml)
+- [Thai Duck Red Curry](meals/duck/thai_duck_red_curry.yaml)
 
 ## pork
 
-- [~](meals/pork/pulled_pork.yaml)
-- [braised pork belly chinese](meals/pork/braised_pork_belly_chinese.yaml)
+- [Pulled Pork](meals/pork/pulled_pork.yaml)
+- [Braised Pork Belly Chinese](meals/pork/braised_pork_belly_chinese.yaml)
 
 ## seafood
 
-- [Octopus confit](meals/seafood/octopus_confit.yaml)
+- [Octopus Confit](meals/seafood/octopus_confit.yaml)
 
 ## pasta
 
-- [The best sicilian pasta](meals/pasta/sicilian_pasta.yml)
-- [spaetzle](meals/pasta/spaetzle.yaml)
-- [Rigatoni a la Vodka](meals/pasta/rigatoni_ala_vodka.yaml)
+- [The Best Sicilian Pasta](meals/pasta/sicilian_pasta.yml)
+- [Spaetzle](meals/pasta/spaetzle.yaml)
+- [Rigatoni A La Vodka](meals/pasta/rigatoni_ala_vodka.yaml)
 - [Spaghetti Carbonara](meals/pasta/carbonara.yaml)
-- [~](meals/pasta/ricotta_dumplings.yaml)
+- [Ricotta Dumplings](meals/pasta/ricotta_dumplings.yaml)
 
 ## chicken
 
 - [Chennai Chicken Wings](meals/chicken/chennai_chicken_wings.yaml)
-- [~](meals/chicken/vietnamese_grilled_chicken.yaml)
+- [Vietnamese Grilled Chicken](meals/chicken/vietnamese_grilled_chicken.yaml)
 - [Peanut Curry Chicken](meals/chicken/peanut_curry_chicken.yaml)
 
 ## fish
@@ -79,7 +79,7 @@
 
 ## breakfast
 
-- [naan sandwich](meals/breakfast/naan_sandwich.yml)
-- [twin peaks pancakes](meals/breakfast/fluffy_pancakes.yaml)
-- [shakshuka](meals/breakfast/shakshuka.yaml)
-- [pancakes](meals/breakfast/jamie_oliver_pancakes.yml)
+- [Naan Sandwich](meals/breakfast/naan_sandwich.yml)
+- [Twin Peaks Pancakes](meals/breakfast/fluffy_pancakes.yaml)
+- [Shakshuka](meals/breakfast/shakshuka.yaml)
+- [Pancakes](meals/breakfast/jamie_oliver_pancakes.yml)
