@@ -5,5 +5,7 @@ links:
 ingredients:
   - name: beef brisket
     quantity: 800g
+notes:
+  - notes...
 instructions:
   - pan fry beef brisket
