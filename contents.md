@@ -20,7 +20,7 @@
 
 - [Biryani](meals/biryani.yaml)
 - [Holiday Sausage Stuffing](meals/holiday_sausage_stuffing.yaml)
-- [~](meals/coconut_rice.yml)
+- [Coconut Rice](meals/coconut_rice.yml)
 - [Pork Stir Fry](meals/pork_stir_fry.yaml)
 
 ## korean
