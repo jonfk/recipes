@@ -1,10 +1,15 @@
 extern crate walkdir;
 extern crate id_tree;
 
+#[macro_use]
+extern crate serde_derive;
+extern crate serde_yaml;
+
 pub mod storage;
 pub mod filters;
 pub mod model;
 pub mod output;
+pub mod serialization;
 
 use model::{Dir, Entry};
 use storage::id_tree as itree;
@@ -26,7 +31,9 @@ pub fn run() {
 
             if filters::is_yaml(&entry) {
                 let path = entry.path();
+                //let recipe = read_recipe(path);
                 //println!("{}", path.display());
+                //println!("{:?}", recipe);
                 storage.insert_path(path);
             }
         }
@@ -38,6 +45,3 @@ pub fn run() {
 
     output::output(&storage);
 }
-
-
-pub fn deserialize_yaml() {}

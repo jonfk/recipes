@@ -1,6 +1,7 @@
 
 use filters;
 use model::{Dir, Entry};
+use serialization::{self, Recipe};
 
 use std::path::Path;
 
@@ -27,7 +28,7 @@ impl IdTree {
 
             let dir = comp.as_os_str().to_str().unwrap();
             if filters::is_filename_yaml(dir) {
-                self.insert_entry(&cur_node_id, dir, path.to_str().unwrap());
+                self.insert_entry(&cur_node_id, dir, path);
                 return;
             } else {
                 cur_node_id = self.insert_dir(&cur_node_id, dir);
@@ -47,10 +48,11 @@ impl IdTree {
         }
     }
 
-    pub fn insert_entry(&mut self, node_id: &NodeId, file_name: &str, path: &str) {
+    pub fn insert_entry(&mut self, node_id: &NodeId, file_name: &str, path: &Path) {
+        let recipe = serialization::read_recipe(path);
         self.tree.get_mut(node_id).unwrap().data_mut().entries.push(Entry {
-            name: file_name.to_owned(),
-            path: path.to_owned(),
+            name: recipe.name,
+            path: path.to_str().unwrap().to_owned(),
         });
     }
 }
