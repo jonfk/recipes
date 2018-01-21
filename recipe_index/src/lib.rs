@@ -1,3 +1,4 @@
+extern crate inflections;
 extern crate walkdir;
 extern crate id_tree;
 

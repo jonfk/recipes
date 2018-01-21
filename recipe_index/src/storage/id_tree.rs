@@ -49,9 +49,11 @@ impl IdTree {
     }
 
     pub fn insert_entry(&mut self, node_id: &NodeId, file_name: &str, path: &Path) {
+        use inflections::Inflect;
+
         let recipe = serialization::read_recipe(path);
         self.tree.get_mut(node_id).unwrap().data_mut().entries.push(Entry {
-            name: recipe.name,
+            name: recipe.name.to_title_case(),
             path: path.to_str().unwrap().to_owned(),
         });
     }
