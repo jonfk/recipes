@@ -1,0 +1,12 @@
+[package]
+name = "recipe_index"
+version = "0.1.0"
+authors = ["Jonathan Fok kan <jfokkan@gmail.com>"]
+
+[dependencies]
+walkdir = "2"
+id_tree = "1.2.0"
+
+serde = "1.0"
+serde_derive = "1.0"
+serde_yaml = "0.7"
