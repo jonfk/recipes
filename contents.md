@@ -1,6 +1,7 @@
 
 # baking
 
+- [Pizza Dough](baking/pizza.yaml)
 - [Focaccia (italian Flat Bread)](baking/focaccia.yaml)
 
 ## cookies
@@ -67,6 +68,7 @@
 ## chicken
 
 - [Chennai Chicken Wings](meals/chicken/chennai_chicken_wings.yaml)
+- [Chicken And Andouille Sausages Gumbo](meals/chicken/chicken_and_andouille_sausages_gumbo.yaml)
 - [Vietnamese Grilled Chicken](meals/chicken/vietnamese_grilled_chicken.yaml)
 - [Peanut Curry Chicken](meals/chicken/peanut_curry_chicken.yaml)
 
