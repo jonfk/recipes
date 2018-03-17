@@ -64,6 +64,7 @@
 - [Spaetzle](meals/pasta/spaetzle.yaml)
 - [Rigatoni A La Vodka](meals/pasta/rigatoni_ala_vodka.yaml)
 - [Spaghetti Carbonara](meals/pasta/carbonara.yaml)
+- [Creamy Pasta With Mushroom And Proscuitto](meals/pasta/creamy_mushroom_pasta.yaml)
 - [Ricotta Dumplings](meals/pasta/ricotta_dumplings.yaml)
 
 ## chicken
