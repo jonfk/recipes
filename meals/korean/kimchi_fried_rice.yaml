@@ -1,0 +1,32 @@
+name: Kimchi Fried Rice / Kimchi Bokkeumbap
+source: multiple
+links:
+  - https://youtu.be/Lf44Fk7H24s
+  - https://youtu.be/rzxVluau83Q
+ingredients:
+  - name: cooked rice
+  - name: Kimchi
+  - name: garlic
+  - name: pork belly or bacon
+  - name: sesame oil
+  - name: gochujang
+  - name: green onion
+  - name: seaweed / nori
+  - name: sesame seeds
+  - name: egg
+  - name: onion (caramelize) (optional)
+notes:
+  - notes...
+  - check out [bibimbap_gochujang_sauce.yaml](bibimbap_gochujang_sauce.yaml) for sauce
+  - For an alternative gochujang sauce, See [link 2](https://youtu.be/rzxVluau83Q) and cut gochujang with butter to make sauce
+instructions:
+  - start with cooking the pork belly or bacon
+  - set aside if adding onion
+  - (optional) add onion and caramelize
+  - add minced garlic into pan and add kimchi
+  - add cooked rice
+  - add some water to keep from burning
+  - add gochujang sauce
+  - add seaweed
+  - add everything else 
+  - top with fried egg

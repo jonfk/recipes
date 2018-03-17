@@ -28,6 +28,7 @@
 
 - [Budae Jigae (korean Army Base Stew)](meals/korean/korean_army_base_stew_budae_jigae.yml)
 - [Bibimbap Or Gochujang Korean Sauce](meals/korean/bibimbap_gochujang_sauce.yaml)
+- [Kimchi Fried Rice / Kimchi Bokkeumbap](meals/korean/kimchi_fried_rice.yaml)
 
 ## vegetarian
 
