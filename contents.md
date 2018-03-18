@@ -17,6 +17,10 @@
 
 - [Frozen Vanilla Custard / Vanilla Ice Cream](desserts/vanilla_ice_cream.yml)
 
+## baking
+
+- [Peach Parmesan Cobbler](desserts/baking/peach_parmesan_cobbler.yaml)
+
 # meals
 
 - [Biryani](meals/biryani.yaml)
