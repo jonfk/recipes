@@ -19,6 +19,7 @@
 
 ## baking
 
+- [Bread Pudding](desserts/baking/bread_pudding.yaml)
 - [Peach Parmesan Cobbler](desserts/baking/peach_parmesan_cobbler.yaml)
 
 # meals
