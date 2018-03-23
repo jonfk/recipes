@@ -48,6 +48,7 @@
 
 ## japanese
 
+- [Oyakodon / Chicken And Egg Rice Bowl](meals/japanese/oyakodon.yaml)
 - [Tuna Mayo Onigiri](meals/japanese/tuna_mayo_onigiri.yaml)
 
 ## duck
