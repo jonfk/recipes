@@ -74,6 +74,10 @@
 - [Creamy Pasta With Mushroom And Proscuitto](meals/pasta/creamy_mushroom_pasta.yaml)
 - [Ricotta Dumplings](meals/pasta/ricotta_dumplings.yaml)
 
+## tofu
+
+- [Pan Seared Egg Tofu “scallops” With Sweet Chile Sauce Recipe](meals/tofu/pan_seared_egg_tofu.yaml)
+
 ## chicken
 
 - [Chennai Chicken Wings](meals/chicken/chennai_chicken_wings.yaml)
