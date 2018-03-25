@@ -1,0 +1,19 @@
+name: Cold Brewed Coffee
+source: Kicking Horse Coffee blog
+links:
+  - https://www.kickinghorsecoffee.com/en/blog/how-make-cold-brew-coffee
+ingredients:
+  - name: coarse ground coffee beans
+    quantity: 1 cup
+  - name: cold water
+    quantity: 4 cup
+timings:
+  - time: 24h
+    for: cold brewing
+notes:
+  - notes...
+instructions:
+  - ground 1 cup of coffee beans coarsely 
+  - mix with 4 cups of water
+  - leave in fridge for 24h to brew
+  - cover container to not mix air 

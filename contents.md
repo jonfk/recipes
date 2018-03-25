@@ -99,3 +99,10 @@
 - [Twin Peaks Pancakes](meals/breakfast/fluffy_pancakes.yaml)
 - [Shakshuka](meals/breakfast/shakshuka.yaml)
 - [Pancakes](meals/breakfast/jamie_oliver_pancakes.yml)
+
+# drinks
+
+
+## coffee
+
+- [Cold Brewed Coffee](drinks/coffee/cold_brewed_coffee.yaml)
