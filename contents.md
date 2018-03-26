@@ -29,6 +29,10 @@
 - [Coconut Rice](meals/coconut_rice.yml)
 - [Pork Stir Fry](meals/pork_stir_fry.yaml)
 
+## lamb
+
+- [Beer Braised Lamb Shanks](meals/lamb/beer_braised_lamb_shanks.yaml)
+
 ## korean
 
 - [Budae Jigae (korean Army Base Stew)](meals/korean/korean_army_base_stew_budae_jigae.yml)
