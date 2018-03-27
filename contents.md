@@ -110,3 +110,10 @@
 ## coffee
 
 - [Cold Brewed Coffee](drinks/coffee/cold_brewed_coffee.yaml)
+
+# salads
+
+
+## italian
+
+- [Italian Tomato Cucumber Salad](salads/italian/tomato_cucumber_mozarella.yaml)
