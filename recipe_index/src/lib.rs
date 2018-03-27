@@ -20,7 +20,7 @@ use std::path::Path;
 use walkdir::{DirEntry, WalkDir};
 
 pub fn run() {
-    let dirs = vec!["baking", "desserts", "meals", "drinks"];
+    let dirs = vec!["baking", "desserts", "meals", "drinks", "salads"];
 
     let mut storage = itree::IdTree::new();
 
