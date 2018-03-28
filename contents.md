@@ -89,6 +89,10 @@
 - [Vietnamese Grilled Chicken](meals/chicken/vietnamese_grilled_chicken.yaml)
 - [Peanut Curry Chicken](meals/chicken/peanut_curry_chicken.yaml)
 
+## chinese
+
+- [Shrimp Mango Dumplings](meals/chinese/shrimp_mango_dumplings.yaml)
+
 ## fish
 
 - [Miso Salmon](meals/fish/miso_salmon.yaml)
