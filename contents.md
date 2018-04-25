@@ -51,6 +51,10 @@
 - [Chilli Con Carne](meals/beef/chilli_con_carne.yaml)
 - [Cottage Pie](meals/beef/cottage_pie.yaml)
 
+## vietnamese
+
+- [Vietnamese Fresh Rolls](meals/vietnamese/spring_fresh_rolls.yaml)
+
 ## japanese
 
 - [Mentsuyu (noodle Soup Base)](meals/japanese/Mentsuyu_noodle_soup_base.yaml)

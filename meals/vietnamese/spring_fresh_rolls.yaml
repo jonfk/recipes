@@ -1,0 +1,36 @@
+name: Vietnamese Fresh Rolls
+source: Culinary Colleen
+links:
+  - http://www.culinarycolleen.com/vietnamese-pork-summer-rolls/
+ingredients:
+  - name: ground pork
+  - name: canola oil
+  - name: fish sauce
+  - name: brown sugar
+  - name: scallions
+  - name: Julienned Carrots
+  - name: deseeded and julienned cucumbers
+  - name: romaine lettuce
+  - name: fresh mint leaves
+  - name: rice noodles
+  - name: rice paper wrappers
+  - name: hoisin sauce
+    quantity: 1 cup
+  - name: smooth peanut butter
+    quantity: 1/4 cup
+  - name: rice vinegar
+    quantity: 1 tablespoon
+  - name: garlic
+    quantity: 2 cloves
+  - name: sriracha
+timings:
+  - time: 15min
+    for: cooking
+  - time: 30min
+    for: prepping
+  - time: 30min
+    for: assembling
+notes:
+  - The lettuce should be on the layer next to the rice paper wrapper
+instructions:
+  - assemble
