@@ -10,6 +10,7 @@ pub struct Recipe {
     pub ingredients: Vec<Ingredient>,
     pub notes: Option<Vec<String>>,
     pub instructions: Vec<String>,
+    pub times_made: TimesMade,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -25,8 +26,14 @@ pub enum Source {
     Str(String),
 }
 
-pub fn deserialize_recipe(recipe_yaml: &str) -> Recipe {
-    serde_yaml::from_str(recipe_yaml).expect(&format!("deserialize recipe {}", recipe_yaml))
+#[derive(Debug, Serialize, Deserialize)]
+pub struct TimesMade {
+    pub count: u64,
+    pub dates: Vec<String>,
+}
+
+pub fn deserialize_recipe(path: &Path, recipe_yaml: &str) -> Recipe {
+    serde_yaml::from_str(recipe_yaml).expect(&format!("deserialize recipe {}", path.display()))
 }
 
 pub fn read_file(path: &Path) -> String {
@@ -40,5 +47,5 @@ pub fn read_file(path: &Path) -> String {
 }
 
 pub fn read_recipe(path: &Path) -> Recipe {
-    deserialize_recipe(&read_file(path))
+    deserialize_recipe(path, &read_file(path))
 }
