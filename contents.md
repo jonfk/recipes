@@ -112,6 +112,7 @@
 - [Naan Sandwich](meals/breakfast/naan_sandwich.yml)
 - [Twin Peaks Pancakes](meals/breakfast/fluffy_pancakes.yaml)
 - [Shakshuka](meals/breakfast/shakshuka.yaml)
+- [Breakfast Hash](meals/breakfast/breakfast_hash.yaml)
 - [Pancakes](meals/breakfast/jamie_oliver_pancakes.yml)
 
 # drinks
