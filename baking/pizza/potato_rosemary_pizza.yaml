@@ -1,0 +1,25 @@
+name: Potato Rosemary Pizza
+source: Melrose Pizza
+links:
+  - 
+ingredients:
+  - name: pizza dough
+  - name: potatoes
+  - name: rosemary
+  - name: mozarella
+  - name: parmesan
+  - name: gruyere (optional)
+  - name: pancetta (optional)
+timings:
+  - time: 5min
+    for: cooking
+  - time: 20min
+    for: prep
+notes:
+  - 
+instructions:
+  - 
+times_made:
+  count: 1
+  dates:
+    - 2018-05-07

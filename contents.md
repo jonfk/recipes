@@ -1,9 +1,13 @@
 
 # baking
 
-- [Pizza Dough](baking/pizza.yaml)
 - [Galette Des Rois Or Almond Cream Cake](baking/galette_des_rois.yaml)
 - [Focaccia (italian Flat Bread)](baking/focaccia.yaml)
+
+## pizza
+
+- [Potato Rosemary Pizza](baking/pizza/potato_rosemary_pizza.yaml)
+- [Pizza Dough](baking/pizza/franks_dough.yaml)
 
 ## cookies
 
