@@ -36,3 +36,7 @@ ingredients:
   - name: 1/2 teaspoon chili flakes sauce
 instructions:
   -
+times_made:
+  count: 1
+  dates:
+    -

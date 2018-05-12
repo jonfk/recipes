@@ -13,3 +13,7 @@ ingredients:
 instructions:
   - mix ingredients with tuna
   - add tuna into rice
+times_made:
+  count: 4
+  dates:
+    - 2018-05-03
