@@ -1,0 +1,40 @@
+name: Crispy Oven Honey Sriracha Chicken Wings
+source: Food Wishes
+links:
+  - https://foodwishes.blogspot.ca/2015/01/crispy-honey-sriracha-chicken-wings.html
+  - https://youtu.be/BDVg0u2YQ7Q
+ingredients:
+  - name: chicken wings
+    quantity: 2 1/2 lbs
+  - name: kosher salt
+    quantity: 1 tablespoon
+  - name: black pepper
+  - name: smoked paprika
+    quantity: 1 teaspoon
+  - name: baking powder
+    quantity: 2 tablespoons
+# sauce
+  - name: honey
+    quantity: 1/3 cup
+  - name: sriracha
+    quantity: 1/3 cup
+  - name: rice vinegar
+    quantity: 1 tablespoon
+  - name: sesame oil
+    quantity: 1/4 teaspoon
+# garnish
+  - name: sesame seeds
+timings:
+  - time: 1h
+    for: cooking
+notes:
+  - be careful about using too much salt
+instructions:
+  - mix dry ingredients
+  - coat chicken wings
+  - put in oven at 425F for 1h
+  - turn every 15-20 mins
+times_made:
+  count: 1
+  dates:
+    - 2018-05-02

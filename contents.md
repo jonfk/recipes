@@ -89,11 +89,15 @@
 
 ## chicken
 
-- [Chennai Chicken Wings](meals/chicken/chennai_chicken_wings.yaml)
 - [Chicken And Andouille Sausages Gumbo](meals/chicken/chicken_and_andouille_sausages_gumbo.yaml)
 - [Vietnamese Grilled Chicken](meals/chicken/vietnamese_grilled_chicken.yaml)
 - [Thai Chicken Satay](meals/chicken/thai_chicken_satay.yaml)
 - [Peanut Curry Chicken](meals/chicken/peanut_curry_chicken.yaml)
+
+### wings
+
+- [Crispy Oven Honey Sriracha Chicken Wings](meals/chicken/wings/oven_crispy_honey_sriracha_wings.yaml)
+- [Chennai Chicken Wings](meals/chicken/wings/chennai_chicken_wings.yaml)
 
 ## chinese
 
