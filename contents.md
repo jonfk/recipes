@@ -94,6 +94,7 @@
 
 ## chicken
 
+- [Stick To Your Bones Chicken Soup](meals/chicken/chicken_soup.yaml)
 - [Chicken And Andouille Sausages Gumbo](meals/chicken/chicken_and_andouille_sausages_gumbo.yaml)
 - [Vietnamese Grilled Chicken](meals/chicken/vietnamese_grilled_chicken.yaml)
 - [Thai Chicken Satay](meals/chicken/thai_chicken_satay.yaml)
