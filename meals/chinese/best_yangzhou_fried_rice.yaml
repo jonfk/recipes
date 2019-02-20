@@ -1,0 +1,28 @@
+name: Best Yangzhou Fried Rice
+source: Adam Liaw
+links:
+  - https://youtu.be/slCxLUgkrmw
+ingredients:
+  - name: jasmine rice
+  - name: chicken stock
+  - name: garlic
+  - name: ginger
+  - name: green onion
+  - name: carrot
+  - name: chinese sausage
+  - name: variety of veggies
+timings:
+  - time: 1h
+    for: preping
+  - time: 20min
+    for: cooking
+notes:
+  - It is nice to have a variety of veggies that make the rice colourful and balanced. Greens, yellow, reds
+  - Keep the veggies fresh by cooking it for a very short time at moderate high heat
+  - You will always have to use more oil than you are comfortable with but be careful not to put too much
+instructions:
+  - cook the rice in chicken stock and add some msg and salt
+times_made:
+  count: 1
+  dates:
+    - 2019-02-19
