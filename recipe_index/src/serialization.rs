@@ -1,4 +1,3 @@
-
 use serde_yaml;
 use std::path::Path;
 
@@ -8,9 +7,17 @@ pub struct Recipe {
     pub source: Option<Source>,
     pub links: Option<Vec<String>>,
     pub ingredients: Vec<Ingredient>,
+    pub timings: Option<Vec<Timing>>,
     pub notes: Option<Vec<String>>,
     pub instructions: Vec<String>,
     pub times_made: TimesMade,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct Timing {
+    pub time: String,
+    #[serde(rename = "for")]
+    pub timing_for: String,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -42,7 +49,8 @@ pub fn read_file(path: &Path) -> String {
 
     let mut file = File::open(path).expect("open file failed");
     let mut contents = String::new();
-    file.read_to_string(&mut contents).expect("error read file to String");
+    file.read_to_string(&mut contents)
+        .expect("error read file to String");
     contents
 }
 
