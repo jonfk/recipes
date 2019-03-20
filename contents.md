@@ -107,6 +107,7 @@
 
 ## chinese
 
+- [Best Yangzhou Fried Rice](meals/chinese/best_yangzhou_fried_rice.yaml)
 - [Shrimp Mango Dumplings](meals/chinese/shrimp_mango_dumplings.yaml)
 
 ## fish
@@ -115,6 +116,7 @@
 
 ## noodles
 
+- [Spicy Sweet Sambal Pork Noodles](meals/noodles/spicy_sweet_sambal_pork_noodles.yaml)
 - [Pad See Ew](meals/noodles/pad_see_ew.yaml)
 
 ## breakfast
