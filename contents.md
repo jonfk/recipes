@@ -107,6 +107,7 @@
 
 ## chinese
 
+- [Sticky Five Spice Chicken](meals/chinese/sticky_five_spice_chicken.yaml)
 - [Best Yangzhou Fried Rice](meals/chinese/best_yangzhou_fried_rice.yaml)
 - [Shrimp Mango Dumplings](meals/chinese/shrimp_mango_dumplings.yaml)
 

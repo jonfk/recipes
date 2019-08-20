@@ -1,0 +1,37 @@
+name: Sticky Five Spice Chicken
+source: Marion's kitchen
+links:
+  - https://youtu.be/aRxanHJWkLY
+  - http://www.marionskitchen.com/sticky-chinese-five-spice-chicken/
+ingredients:
+  - name: skin on chicken thighs
+    quantity: 4
+  - name: hoisin sauce
+    quantity: 3 tbsp
+  - name: honey
+    quantity: 2 tbsp
+  - name: oyster sauce
+    quantity: 1 tbsp
+  - name: dark soy sauce
+    quantity: 1 tbsp
+  - name: garlic cloves
+    quantity: 3 cloves
+  - name: chinese 5 spice
+    quantity: 2 tsp
+timings:
+  - time: 10min
+    for: prep
+  - time: 2h
+    for: cooking
+notes:
+  - similar to my mom's soy sauce chicken but with stickier and better textured skin
+instructions:
+  - mix ingredients to make marinade
+  - save a few tablespoons for final basting
+  - marinate chicken for 2h to overnight
+  - bake for about 1 1/2 to 2h on 250-275F in oven
+  - put saved marinade on skin and finish in 385F oven
+times_made:
+  count: 1
+  dates:
+    - 2019-08-19
