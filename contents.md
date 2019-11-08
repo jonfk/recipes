@@ -47,6 +47,7 @@
 
 ## vegetarian
 
+- [Ratatouille (confit Byaldi)](meals/vegetarian/ratatouille_confit_byaldi.yaml)
 - [Slow Cooked Aubergine](meals/vegetarian/slow-cooked-aubergine.yaml)
 - [Gratin Dauphinois](meals/vegetarian/gratin_dauphinois.yaml)
 
@@ -73,6 +74,7 @@
 ## pork
 
 - [Pulled Pork](meals/pork/pulled_pork.yaml)
+- [Glazed Pork Chop](meals/pork/glazed_pork_chop.yml)
 - [Braised Pork Belly Chinese](meals/pork/braised_pork_belly_chinese.yaml)
 
 ## seafood
