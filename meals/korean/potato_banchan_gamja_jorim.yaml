@@ -1,0 +1,27 @@
+name: Gamja Jorim (Soy sauce Braised Potato Banchan)
+source:  Seonkyoung Longest
+links:
+  - https://www.youtube.com/watch?v=Ar6cg01C51s
+ingredients:
+  - name: Potatoes
+    quantity: 1lb
+  - name: Soy Sauce
+    quantity: 5 tbsp
+  - name: Maple Syrup
+    quantity: 4 tbsp
+  - name: Water
+    quantity: 1cup
+timings:
+  - time: 30min
+    for: cooking
+notes:
+  - maple syrup can be replaced with sugar
+instructions:
+  - Clean and cut potatoes
+  - Heat oil in sauce pan and lightly fry potatoes
+  - Add water, soy sauce and syrup
+  - Cook until done
+times_made:
+  count: 1
+  dates:
+    - 2019-12-14
