@@ -103,6 +103,7 @@
 - [Chicken And Andouille Sausages Gumbo](meals/chicken/chicken_and_andouille_sausages_gumbo.yaml)
 - [Vietnamese Grilled Chicken](meals/chicken/vietnamese_grilled_chicken.yaml)
 - [Thai Chicken Satay](meals/chicken/thai_chicken_satay.yaml)
+- [Hawaiian Fried Chicken/mochiko Chicken](meals/chicken/hawaiian_fried_chicken.yaml)
 - [Peanut Curry Chicken](meals/chicken/peanut_curry_chicken.yaml)
 
 ### wings

@@ -1,0 +1,42 @@
+name: "Hawaiian Fried Chicken/Mochiko Chicken"
+source: Munchies on Youtube by Sheldon Simeon
+links:
+  - https://youtu.be/ek_CUJY-Jmc
+ingredients:
+  # Chicken Marinade
+  - name: Sake
+  - name: Soy Sauce
+  - name: ginger
+  - name: gochujang
+  - name: sugar
+  - name: egg
+    quantity: 2
+  - name: Mochiko Flour / Sweet Rice Flour
+  - name: Chicken thighs with skin on
+  # su-miso
+  - name: Sake
+  - name: Mirin
+  - name: Sugar
+    quantity: maybe 1/2 cup (it's a lot)
+  - name: white Miso
+  # Gochugang mayo
+  - name: gochugang
+  - name: Hellmans mayo
+  - name: sugar
+    quantity: a pinch
+timings:
+  - time: 1h
+    for: marinate
+  - time: 1h
+    for: cooking
+notes:
+  - Be careful not to fry too fast or the chicken will be undercooked inside
+instructions:
+  - Mix all marinade ingredients and chicken. Let rest for a while
+  - For Su-Miso sauce, bring sake, mirin and sugar to a boil then add white miso paste
+  - Fry chicken at 325F
+  - Dredge chicken from marinade to flour then bring to hot oil
+times_made:
+  count: 1
+  dates:
+    - 
