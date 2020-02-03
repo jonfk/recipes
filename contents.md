@@ -63,6 +63,7 @@
 ## vietnamese
 
 - [Vietnamese Fresh Rolls](meals/vietnamese/spring_fresh_rolls.yaml)
+- [Vietnamese Fish Sauce (nước Chấm)](meals/vietnamese/dipping_fish_sauce.yaml)
 
 ## japanese
 
