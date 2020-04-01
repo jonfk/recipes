@@ -1,0 +1,27 @@
+name: Jiapaguri AKA Ramdon from Parasite
+source: Maangnchi
+links:
+  - https://www.maangchi.com/recipe/jjapaguri
+  - https://youtu.be/ZsTXzO-tk8M
+ingredients:
+  - name: Chapagetti noodles
+  - name: Neoguri noodles
+  - name: Steak or shortrib
+    optional: true
+  - name: Butter
+    optional: true
+timings:
+  - time: 20mins
+    for: cooking
+notes:
+  -
+instructions:
+  - Cook the noodles in water with the dried vegetables but without the seasoning packets
+  - Cook the steak cut into pieces separately with some butter
+  - Drain most of the water from the noodles but leave a little water
+  - Add chapagetti seasoning and half the neoguri seasoning
+  - Add steak
+times_made:
+  count: 1
+  dates:
+    - 2020-03-18
