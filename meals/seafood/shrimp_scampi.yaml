@@ -17,7 +17,11 @@ ingredients:
   - name: red pepper flakes
     quantity: 
 timings:
-  - time: 3-12h
+  - time: 10-20mins
+    for: prep
+  - time: 30mins
+    for: marinate
+  - time: 10mins
     for: cooking
 notes:
   - If the sauce breaks, add water to get it back
