@@ -43,6 +43,7 @@
 
 ## korean
 
+- [Jiapaguri Aka Ramdon From Parasite](meals/korean/jiapaguri_aka_ramdon.yaml)
 - [Gamja Jorim (soy Sauce Braised Potato Banchan)](meals/korean/potato_banchan_gamja_jorim.yaml)
 - [Budae Jigae (korean Army Base Stew)](meals/korean/korean_army_base_stew_budae_jigae.yml)
 - [Bibimbap Or Gochujang Korean Sauce](meals/korean/bibimbap_gochujang_sauce.yaml)
@@ -84,6 +85,7 @@
 ## seafood
 
 - [Octopus Confit](meals/seafood/octopus_confit.yaml)
+- [Ba's Best Shrimp Scampi](meals/seafood/shrimp_scampi.yaml)
 
 ## pasta
 
@@ -125,6 +127,7 @@
 ## fish
 
 - [Miso Salmon](meals/fish/miso_salmon.yaml)
+- [Salmon Coulibiac](meals/fish/salmon_coulibiac.yaml)
 
 ## noodles
 
