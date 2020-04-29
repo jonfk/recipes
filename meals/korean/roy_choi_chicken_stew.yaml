@@ -1,0 +1,44 @@
+name: Roy Choi's Chicken Stew
+source: Chef Show on Netflix
+links:
+ingredients:
+  - name: jalapeno peppers
+  - name: onions
+  - name: garlic
+  - name: gochujang
+  - name: gochugaru
+  - name: apple
+  - name: pear
+  - name: kiwi
+  - name: scallions
+  - name: beef broth
+  - name: soy sauce
+  - name: fish sauce
+  - name: oyster sauce
+  - name: sesame oil (small amount)
+  - name: sugar
+  - name: ginger
+  - name: chicken thighs
+  - name: japchae noodles
+    optional: true
+  - name: mungbean noodles (Used in the video)
+    optional: true
+timings:
+  - time: 20mins
+    for: prep
+  - time: 1h
+    for: cooking
+notes:
+  - Remove backbone from the chicken thighs since it breaks down into small pieces when cooked for a long time
+  - Be careful not to overcook the chicken when stewing
+  - Didn't use the mungbean noodles and used japchae noodles instead
+  - Best eaten with rice
+instructions:
+  - mix all ingredients and mix in a blender
+  - brown chicken
+  - pour marinate mix and various vegetables
+  - cook for about 1h to 1.5h
+times_made:
+  count: 1
+  dates:
+    - 2020-04-19
