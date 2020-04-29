@@ -1,0 +1,30 @@
+name: Pantry chickpea pasta
+source: Bon Appetit Pantry Pasta recipes
+links:
+  - https://youtu.be/2ECoTEcPv4U?t=921
+ingredients:
+  - name: pasta
+  - name: chickpeas
+  - name: rosemary
+    optional: true
+  - name: kale
+    optional: true
+  - name: lemon
+  - name: chili flakes
+  - name: garlic
+timings:
+  - time: 20mins
+    for: cooking
+notes:
+  - keep some of the chickpeas to plate at the end before crushing the rest
+instructions:
+  - Chop garlic and cook
+  - Add chili flakes
+  - Add chickpeas and cook
+  - Add rosemary
+  - Add lemon juice
+  - Crush the chickpeas
+times_made:
+  count: 1
+  dates:
+    - 

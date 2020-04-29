@@ -1,6 +1,7 @@
 
 # baking
 
+- [No Knead Break](baking/no_knead_bread.yaml)
 - [Scones](baking/scones.yaml)
 - [Galette Des Rois Or Almond Cream Cake](baking/galette_des_rois.yaml)
 - [Focaccia (italian Flat Bread)](baking/focaccia.yaml)
@@ -48,6 +49,7 @@
 - [Budae Jigae (korean Army Base Stew)](meals/korean/korean_army_base_stew_budae_jigae.yml)
 - [Bibimbap Or Gochujang Korean Sauce](meals/korean/bibimbap_gochujang_sauce.yaml)
 - [Kimchi Fried Rice / Kimchi Bokkeumbap](meals/korean/kimchi_fried_rice.yaml)
+- [Roy Choi's Chicken Stew](meals/korean/roy_choi_chicken_stew.yaml)
 
 ## vegetarian
 
@@ -89,6 +91,7 @@
 
 ## pasta
 
+- [Pantry Chickpea Pasta](meals/pasta/chickpea_pasta.yaml)
 - [The Best Sicilian Pasta](meals/pasta/sicilian_pasta.yml)
 - [Spaetzle](meals/pasta/spaetzle.yaml)
 - [Rigatoni A La Vodka](meals/pasta/rigatoni_ala_vodka.yaml)
