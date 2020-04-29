@@ -1,0 +1,27 @@
+name: No Knead Break
+source: Kenji Lopez-Alt
+links:
+  - https://youtu.be/uWbl3Sr2y1Y
+ingredients:
+  - name: flour
+    quantity: 100%
+  - name: water
+    quantity: 75%
+  - name: salt
+    quantity: 2%
+  - name: yeast
+    quantity: 0.5%
+timings:
+  - time: 12-18h
+    for: rise
+  - time: 40mins
+    for: baking
+notes:
+  - Recipe can also be used to make foccacia
+instructions:
+  - bake 20mins inside of dutch oven
+  - Then 20mins with lid opened
+times_made:
+  count: 3
+  dates:
+    - 
