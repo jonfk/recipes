@@ -1,0 +1,29 @@
+name: Bánh Tráng Nuong
+source: Multiple
+links:
+  - https://youtu.be/76l5mxnuImM
+  - https://youtu.be/fUF-EpX_6e4
+ingredients:
+  - name: Round rice paper
+  - name: Egg
+  - name: Sweet and Spicy sauce
+  - name: Green onions
+  - name: chili oil or samba
+    optional: true
+  - name: Mayo
+    optional: true
+timings:
+  - time: 10mins
+    for: cooking
+notes:
+  - The rice paper can be doubled up by putting a little water on one of them and sticking them together
+instructions:
+  - Put the rice paper in a pan on medium high heat
+  - Put some chopped green onions onto the rice paper while it's cooking
+  - Add other toppings, chili oil or samba
+  - Add egg and mix it all over the rice paper
+  - Once mostly cooked, add sweet and spicy sauce
+times_made:
+  count: 1
+  dates:
+    - 2020-05-18

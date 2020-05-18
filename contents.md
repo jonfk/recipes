@@ -1,7 +1,7 @@
 
 # baking
 
-- [No Knead Break](baking/no_knead_bread.yaml)
+- [No Knead Bread](baking/no_knead_bread.yaml)
 - [Scones](baking/scones.yaml)
 - [Galette Des Rois Or Almond Cream Cake](baking/galette_des_rois.yaml)
 - [Focaccia (italian Flat Bread)](baking/focaccia.yaml)
@@ -65,6 +65,7 @@
 
 ## vietnamese
 
+- [Bánh Tráng Nuong](meals/vietnamese/banh_trang_nuong.yaml)
 - [Vietnamese Fresh Rolls](meals/vietnamese/spring_fresh_rolls.yaml)
 - [Vietnamese Fish Sauce (nước Chấm)](meals/vietnamese/dipping_fish_sauce.yaml)
 
@@ -119,6 +120,7 @@
 
 ## chinese
 
+- [Dan Dan Noodles By Kenji Lopez Alt](meals/chinese/dan_dan_noodles.yaml)
 - [Sticky Five Spice Chicken](meals/chinese/sticky_five_spice_chicken.yaml)
 - [Best Yangzhou Fried Rice](meals/chinese/best_yangzhou_fried_rice.yaml)
 - [Shrimp Mango Dumplings](meals/chinese/shrimp_mango_dumplings.yaml)
