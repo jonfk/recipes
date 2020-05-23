@@ -1,3 +1,5 @@
+use chrono::prelude::*;
+
 #[derive(Debug)]
 pub struct Dir {
     pub name: String,
@@ -15,6 +17,8 @@ impl Dir {
 
 #[derive(Debug)]
 pub struct Entry {
+    pub created_on: DateTime<Utc>,
+    pub last_modified: DateTime<Utc>,
     pub name: String,
     pub description: Option<String>,
     pub path: String,

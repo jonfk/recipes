@@ -7,6 +7,7 @@ extern crate serde_derive;
 extern crate serde_yaml;
 
 pub mod filters;
+pub mod git;
 pub mod model;
 pub mod output;
 pub mod serialization;

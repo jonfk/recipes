@@ -1,5 +1,5 @@
 use crate::{
-    filters,
+    filters, git,
     model::{Dir, Entry},
     serialization::{self},
 };
@@ -31,7 +31,7 @@ impl IdTree {
         for comp in path.components() {
             let dir = comp.as_os_str().to_str().unwrap();
             if filters::is_filename_yaml(dir) {
-                self.insert_entry(&cur_node_id, dir, path);
+                self.insert_entry(&cur_node_id, path);
                 return;
             } else {
                 cur_node_id = self.insert_dir(&cur_node_id, dir);
@@ -54,16 +54,21 @@ impl IdTree {
         }
     }
 
-    pub fn insert_entry(&mut self, node_id: &NodeId, _file_name: &str, path: &Path) {
+    pub fn insert_entry(&mut self, node_id: &NodeId, path: &Path) {
         use inflections::Inflect;
 
         let recipe = serialization::read_recipe(path);
+        let created_on = git::created_on(&path);
+        let last_modified = git::last_modified(&path);
+
         self.tree
             .get_mut(node_id)
             .unwrap()
             .data_mut()
             .entries
             .push(Entry {
+                created_on: created_on,
+                last_modified: last_modified,
                 name: recipe.name.to_title_case(),
                 description: recipe.description,
                 path: path.to_str().unwrap().to_owned(),

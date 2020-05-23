@@ -25,6 +25,7 @@ pub struct Timing {
 pub struct Ingredient {
     pub name: String,
     pub quantity: Option<String>,
+    pub optional: Option<bool>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
