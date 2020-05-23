@@ -163,5 +163,5 @@
 
 # unsuccessful
 
-- [Joshua Weissman's Bbq Sauce For Smoker Free Ribs](unsuccessful/bbq_sauce.yaml)
-- [Joshua Weissman's Coffee Rib Rub For Smoker Free Ribs](unsuccessful/coffee_rib_rub.yaml)
+- [Joshua Weissman's Bbq Sauce For Smoker Free Ribs](unsuccessful/bbq_sauce.yaml): A BBQ Sauce for no smoker ribs that didn't turn out very good
+- [Joshua Weissman's Coffee Rib Rub For Smoker Free Ribs](unsuccessful/coffee_rib_rub.yaml): A smoker free ribs recipe that turned out too coffee forward
