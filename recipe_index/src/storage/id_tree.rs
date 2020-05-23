@@ -65,6 +65,7 @@ impl IdTree {
             .entries
             .push(Entry {
                 name: recipe.name.to_title_case(),
+                description: recipe.description,
                 path: path.to_str().unwrap().to_owned(),
             });
     }

@@ -1,6 +1,7 @@
 use crate::{model::Dir, storage::id_tree::IdTree};
 
-use id_tree::{Node, NodeId};
+use id_tree::Node;
+use std::fmt::Write;
 
 pub fn output(itree: &IdTree) {
     let mut contents = String::new();
@@ -15,7 +16,12 @@ pub fn output(itree: &IdTree) {
         if node.data().name != "root" {
             contents.push_str(&format!("\n{} {}\n\n", "#".repeat(depth), node.data().name));
             for entry in &node.data().entries {
-                contents.push_str(&format!("- [{}]({})\n", entry.name, entry.path));
+                contents.push_str(&format!("- [{}]({})", entry.name, entry.path));
+                if let Some(desc) = &entry.description {
+                    write!(&mut contents, ": {}\n", desc).unwrap();
+                } else {
+                    write!(&mut contents, "\n").unwrap();
+                }
             }
         }
     }

@@ -1,4 +1,3 @@
-
 #[derive(Debug)]
 pub struct Dir {
     pub name: String,
@@ -17,5 +16,6 @@ impl Dir {
 #[derive(Debug)]
 pub struct Entry {
     pub name: String,
+    pub description: Option<String>,
     pub path: String,
 }

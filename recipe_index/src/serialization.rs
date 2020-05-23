@@ -4,6 +4,7 @@ use std::path::Path;
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Recipe {
     pub name: String,
+    pub description: Option<String>,
     pub source: Option<Source>,
     pub links: Option<Vec<String>>,
     pub ingredients: Vec<Ingredient>,
