@@ -1,6 +1,7 @@
 use crate::{model::Dir, storage::id_tree::IdTree};
 
 use id_tree::Node;
+use inflections::Inflect;
 use std::fmt::Write;
 
 pub fn output(itree: &IdTree) {
@@ -14,9 +15,19 @@ pub fn output(itree: &IdTree) {
         let depth = depth(itree, node);
         println!("{:?}, depth: {}", node.data(), depth);
         if node.data().name != "root" {
-            contents.push_str(&format!("\n{} {}\n\n", "#".repeat(depth), node.data().name));
+            contents.push_str(&format!(
+                "\n{} {}\n\n",
+                "#".repeat(depth),
+                node.data().name.to_title_case()
+            ));
             for entry in &node.data().entries {
-                contents.push_str(&format!("- [{}]({})", entry.name, entry.path));
+                write!(
+                    &mut contents,
+                    "- [{}]({})",
+                    entry.name.to_title_case(),
+                    entry.path
+                )
+                .unwrap();
                 if let Some(desc) = &entry.description {
                     write!(&mut contents, ": {}\n", desc).unwrap();
                 } else {
