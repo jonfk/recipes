@@ -1,12 +1,13 @@
-
-use filters;
-use model::{Dir, Entry};
-use serialization::{self, Recipe};
+use crate::{
+    filters,
+    model::{Dir, Entry},
+    serialization::{self},
+};
 
 use std::path::Path;
 
-use id_tree::*;
 use id_tree::InsertBehavior;
+use id_tree::*;
 
 pub struct IdTree {
     pub tree: Tree<Dir>,
@@ -22,10 +23,12 @@ impl IdTree {
     }
 
     pub fn insert_path(&mut self, path: &Path) {
-        let mut cur_node_id =
-            self.tree.root_node_id().expect("root node should already be created").clone();
+        let mut cur_node_id = self
+            .tree
+            .root_node_id()
+            .expect("root node should already be created")
+            .clone();
         for comp in path.components() {
-
             let dir = comp.as_os_str().to_str().unwrap();
             if filters::is_filename_yaml(dir) {
                 self.insert_entry(&cur_node_id, dir, path);
@@ -40,26 +43,32 @@ impl IdTree {
         if let Some(node_id) = find_from_id(&self.tree, node_id, dir_name) {
             node_id
         } else {
-            let new_node_id = self.tree
-                .insert(Node::new(Dir::new(dir_name)),
-                        InsertBehavior::UnderNode(&node_id))
+            let new_node_id = self
+                .tree
+                .insert(
+                    Node::new(Dir::new(dir_name)),
+                    InsertBehavior::UnderNode(&node_id),
+                )
                 .unwrap();
             new_node_id
         }
     }
 
-    pub fn insert_entry(&mut self, node_id: &NodeId, file_name: &str, path: &Path) {
+    pub fn insert_entry(&mut self, node_id: &NodeId, _file_name: &str, path: &Path) {
         use inflections::Inflect;
 
         let recipe = serialization::read_recipe(path);
-        self.tree.get_mut(node_id).unwrap().data_mut().entries.push(Entry {
-            name: recipe.name.to_title_case(),
-            path: path.to_str().unwrap().to_owned(),
-        });
+        self.tree
+            .get_mut(node_id)
+            .unwrap()
+            .data_mut()
+            .entries
+            .push(Entry {
+                name: recipe.name.to_title_case(),
+                path: path.to_str().unwrap().to_owned(),
+            });
     }
 }
-
-
 
 fn find_from_id(tree: &Tree<Dir>, node_id: &NodeId, dir_name: &str) -> Option<NodeId> {
     tree.children_ids(node_id)

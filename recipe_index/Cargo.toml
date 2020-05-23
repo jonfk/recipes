@@ -2,6 +2,7 @@
 name = "recipe_index"
 version = "0.1.0"
 authors = ["Jonathan Fok kan <jfokkan@gmail.com>"]
+edition = "2018"
 
 [dependencies]
 walkdir = "2"

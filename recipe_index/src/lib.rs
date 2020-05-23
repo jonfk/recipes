@@ -1,26 +1,30 @@
+extern crate id_tree;
 extern crate inflections;
 extern crate walkdir;
-extern crate id_tree;
 
 #[macro_use]
 extern crate serde_derive;
 extern crate serde_yaml;
 
-pub mod storage;
 pub mod filters;
 pub mod model;
 pub mod output;
 pub mod serialization;
+pub mod storage;
 
-use model::{Dir, Entry};
 use storage::id_tree as itree;
 
-use std::path::Path;
-
-use walkdir::{DirEntry, WalkDir};
+use walkdir::WalkDir;
 
 pub fn run() {
-    let dirs = vec!["baking", "desserts", "meals", "drinks", "salads"];
+    let dirs = vec![
+        "baking",
+        "desserts",
+        "meals",
+        "drinks",
+        "salads",
+        "unsuccessful",
+    ];
 
     let mut storage = itree::IdTree::new();
 

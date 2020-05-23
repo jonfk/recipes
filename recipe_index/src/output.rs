@@ -1,13 +1,15 @@
+use crate::{model::Dir, storage::id_tree::IdTree};
 
-use storage::id_tree::IdTree;
-use model::Dir;
-
-use id_tree::{NodeId, Node};
+use id_tree::{Node, NodeId};
 
 pub fn output(itree: &IdTree) {
     let mut contents = String::new();
 
-    for node in itree.tree.traverse_pre_order(itree.tree.root_node_id().unwrap()).unwrap() {
+    for node in itree
+        .tree
+        .traverse_pre_order(itree.tree.root_node_id().unwrap())
+        .unwrap()
+    {
         let depth = depth(itree, node);
         println!("{:?}, depth: {}", node.data(), depth);
         if node.data().name != "root" {
@@ -41,5 +43,6 @@ fn write_to_file(output_file: &str, contents: &str) {
     use std::io::prelude::*;
 
     let mut file = File::create(output_file).expect("error creating file");
-    file.write_all(contents.as_bytes()).expect("error writing to file");
+    file.write_all(contents.as_bytes())
+        .expect("error writing to file");
 }
