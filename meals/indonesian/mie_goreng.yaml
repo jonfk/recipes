@@ -1,0 +1,44 @@
+name: Mie Goreng
+description: A savory, sweet, spicy noodle dish
+source:  Seonkyoung Longest
+links:
+  - https://youtu.be/5Zq3BNBMf7Q
+ingredients:
+  - name: noodles
+  - name: bean sprouts
+  - name: shrimp
+    quantity: 3-4
+  - name: garlic
+  - name: shallot
+  - name: carrot
+  - name: green vegetable
+  - name: eggs
+  - name: dark soy sauce
+    quantity: 1 teaspoon
+  - name: light soy sauce
+    quantity: 1 teaspoon
+  - name: kecap manis
+    quantity: 1 tablespoon
+  - name: chicken stock
+    quantity: 1/4 cup
+  - name: sambal olek
+    quantity: 1 tablespoon
+    optional: true
+timings:
+  - time: 20mins
+    for: cooking
+  - time: 15mins
+    for: prep
+notes:
+  - notes...
+instructions:
+  - finely dice the shallots, slice the garlic and juliene the carrot
+  - fry the eggs sunny side up
+  - cook the shrimp
+  - partially cook the noodles if they are dry noodles. If they are fresh, skip this step
+  - fry the shallot and garlic, add the vegetables
+  - add the noodles and mixed sauce
+times_made:
+  count: 1
+  dates:
+    - 2020-05-22

@@ -125,6 +125,10 @@
 - [Best Yangzhou Fried Rice](meals/chinese/best_yangzhou_fried_rice.yaml)
 - [Shrimp Mango Dumplings](meals/chinese/shrimp_mango_dumplings.yaml)
 
+## indonesian
+
+- [Mie Goreng](meals/indonesian/mie_goreng.yaml): A savory, sweet, spicy noodle dish
+
 ## salad
 
 - [Kale Salad With Wheat Berries, Parmesan, Pine Nuts, And Currants](meals/salad/kale_salad_from_blue_hill.yaml)
