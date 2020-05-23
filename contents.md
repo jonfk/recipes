@@ -160,3 +160,8 @@
 ## italian
 
 - [Italian Tomato Cucumber Salad](salads/italian/tomato_cucumber_mozarella.yaml)
+
+# unsuccessful
+
+- [Joshua Weissman's Bbq Sauce For Smoker Free Ribs](unsuccessful/bbq_sauce.yaml)
+- [Joshua Weissman's Coffee Rib Rub For Smoker Free Ribs](unsuccessful/coffee_rib_rub.yaml)
