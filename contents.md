@@ -65,7 +65,7 @@
 
 ## Vietnamese
 
-- [Bahn Xeo](meals/vietnamese/bahn_xeo.yaml): Vietnamese rice crepe filled with veggies, shrimp and meat
+- [Banh Xeo](meals/vietnamese/banh_xeo.yaml): Vietnamese rice crepe filled with veggies, shrimp and meat
 - [Bánh Tráng Nuong](meals/vietnamese/banh_trang_nuong.yaml)
 - [Vietnamese Fresh Rolls](meals/vietnamese/spring_fresh_rolls.yaml)
 - [Vietnamese Fish Sauce (nước Chấm)](meals/vietnamese/dipping_fish_sauce.yaml)
