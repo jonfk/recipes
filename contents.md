@@ -123,6 +123,7 @@
 
 - [Dan Dan Noodles By Kenji Lopez Alt](meals/chinese/dan_dan_noodles.yaml)
 - [Sticky Five Spice Chicken](meals/chinese/sticky_five_spice_chicken.yaml)
+- [Sichuan Fish Fragrant Braised Eggplant](meals/chinese/sichuan_fish_fragrant_braised_eggplant.yaml): A Sichuanese classic deeply flavored with garlic, ginger, and pickled chilies, aromatics that are often associated with fish cookery
 - [Best Yangzhou Fried Rice](meals/chinese/best_yangzhou_fried_rice.yaml)
 - [Shrimp Mango Dumplings](meals/chinese/shrimp_mango_dumplings.yaml)
 
