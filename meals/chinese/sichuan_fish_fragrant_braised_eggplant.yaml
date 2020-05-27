@@ -1,0 +1,46 @@
+name: Sichuan Fish Fragrant Braised Eggplant
+description: A Sichuanese classic deeply flavored with garlic, ginger, and pickled chilies, aromatics that are often associated with fish cookery
+source: Serious Eats, Fuchsia Dunlop
+links:
+  - https://youtu.be/4uU6DwAi2S8
+  - https://www.seriouseats.com/recipes/2020/01/fish-fragrant-eggplants-sichuan-braised-eggplant-with-garlic-ginger-and-chilies.html
+ingredients:
+  - name: shallots
+    optional: true
+  - name: garlic
+  - name: green onions
+  - name: ginger
+  - name: chinese eggplant
+  - name: meat
+    optional: true
+  - name: stock
+  - name: sugar
+    quantity: 4 teaspoon
+  - name: soy sauce
+    quantity: 4 teaspoon
+  - name: potato starch or corn starch
+  - name: Chinkiang vinegar
+  - name: Sichuan chile bean paste
+timings:
+  - time: 30min
+    for: cooking
+  - time: 15min
+    for: prep
+notes:
+  - make sure to add back the cooked eggplant at the very end otherwise it can be overcooked
+instructions:
+  - finely chop the shallots, garlic, green onions and ginger
+  - cut the meat and eggplant
+  - deep fry the eggplant till golden brown and reserve
+  - If using meat, brown/cook the meat and set aside
+  - cook the shallots, garlic and ginger
+  - Add the chile bean paste
+  - Add back the meat and all the sauce mixture
+  - Add stock and cook till lightly reduced
+  - Add the starch till slightly thickened
+  - Add the eggplant at the end
+  - Serve with the green onions
+times_made:
+  count: 1
+  dates:
+    - 2020-05-26
