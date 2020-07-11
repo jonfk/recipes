@@ -1,4 +1,4 @@
-use crate::{model::Dir, storage::id_tree::IdTree};
+use crate::model::{Dir, IdTree};
 
 use id_tree::Node;
 use inflections::Inflect;
@@ -21,14 +21,8 @@ pub fn output(itree: &IdTree) {
                 node.data().name.to_title_case()
             ));
             for entry in &node.data().entries {
-                write!(
-                    &mut contents,
-                    "- [{}]({})",
-                    entry.name.to_title_case(),
-                    entry.path
-                )
-                .unwrap();
-                if let Some(desc) = &entry.description {
+                write!(&mut contents, "- [{}]({})", entry.recipe.name(), entry.path).unwrap();
+                if let Some(desc) = &entry.recipe.description {
                     write!(&mut contents, ": {}\n", desc).unwrap();
                 } else {
                     write!(&mut contents, "\n").unwrap();
@@ -39,6 +33,19 @@ pub fn output(itree: &IdTree) {
 
     println!("{}", contents);
     write_to_file("contents.md", &contents);
+}
+
+pub fn output_json_contents(itree: &IdTree) {
+    let recipes: Vec<_> = itree
+        .tree
+        .traverse_pre_order(itree.tree.root_node_id().unwrap())
+        .unwrap()
+        .map(|node| node.data().entries.clone())
+        .flatten()
+        .collect();
+
+    let recipes_json = serde_json::to_string(&recipes).unwrap();
+    write_to_file("recipes.json", &recipes_json);
 }
 
 fn depth(tree: &IdTree, node: &Node<Dir>) -> usize {

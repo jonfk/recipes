@@ -1,7 +1,8 @@
+use inflections::Inflect;
 use serde_yaml;
 use std::path::Path;
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Recipe {
     pub name: String,
     pub description: Option<String>,
@@ -14,34 +15,40 @@ pub struct Recipe {
     pub times_made: TimesMade,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+impl Recipe {
+    pub fn name(&self) -> String {
+        self.name.to_title_case()
+    }
+}
+
+#[derive(Clone, Debug, Serialize, Deserialize)]
 pub struct Timing {
     pub time: String,
     #[serde(rename = "for")]
     pub timing_for: String,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Clone, Debug, Serialize, Deserialize)]
 pub struct Ingredient {
     pub name: String,
     pub quantity: Option<String>,
     pub optional: Option<bool>,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Clone, Debug, Serialize, Deserialize)]
 #[serde(untagged)]
 pub enum Source {
     Seq(Vec<String>),
     Str(String),
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Clone, Debug, Serialize, Deserialize)]
 pub struct TimesMade {
     pub count: u64,
     pub dates: Vec<String>,
 }
 
-pub fn deserialize_recipe(path: &Path, recipe_yaml: &str) -> Recipe {
+fn deserialize_recipe(path: &Path, recipe_yaml: &str) -> Recipe {
     serde_yaml::from_str(recipe_yaml).expect(&format!("deserialize recipe {}", path.display()))
 }
 

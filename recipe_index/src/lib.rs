@@ -11,9 +11,8 @@ pub mod git;
 pub mod model;
 pub mod output;
 pub mod serialization;
-pub mod storage;
 
-use storage::id_tree as itree;
+use crate::model::IdTree;
 
 use walkdir::WalkDir;
 
@@ -27,7 +26,7 @@ pub fn run() {
         "unsuccessful",
     ];
 
-    let mut storage = itree::IdTree::new();
+    let mut tree = IdTree::new();
 
     println!("indexing...");
     for dir in dirs {
@@ -40,7 +39,7 @@ pub fn run() {
                 //let recipe = read_recipe(path);
                 //println!("{}", path.display());
                 //println!("{:?}", recipe);
-                storage.insert_path(path);
+                tree.insert_path(path);
             }
         }
     }
@@ -49,5 +48,6 @@ pub fn run() {
     //     println!("{:?}, ", node.data());
     // }
 
-    output::output(&storage);
+    output::output(&tree);
+    output::output_json_contents(&tree);
 }
