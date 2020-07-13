@@ -1,0 +1,28 @@
+name: Leek and Potatoes Soup
+description: Can be served hot or cold. Also known as a vichyssoise if served cold
+source: 
+links:
+  - https://youtu.be/WCUBhS42eTg
+  - https://youtu.be/sRdHa1qnL_g
+ingredients:
+  - name: leeks
+  - name: non-waxy potatoes
+  - name: butter
+  - name: cream
+  - name: chicken stock
+timings:
+  - time: 2-3h
+    for: cooking
+notes:
+  - To clean the leeks. Cut in half and soak in water to let the grit fall down to the bottom of the bowl of water.
+  - Keep the potatoes in water
+instructions:
+  - sweat the leeks with butter
+  - add chicken stock and potatoes
+  - cook till potatoes are soft
+  - once cooked, blend the soup
+  - add cream
+times_made:
+  count: 1
+  dates:
+    - 2020-07-13
