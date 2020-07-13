@@ -107,6 +107,7 @@
 
 ## French
 
+- [Leek And Potatoes Soup](meals/french/leek_and_potatoes_soup.yaml): Can be served hot or cold. Also known as a vichyssoise if served cold
 - [Jacques Pépin's Maman's Cheese Soufflé](meals/french/souffle_de_maman_de_jacques_pepin.yaml): Quick and easy version of cheese soufflé
 - [Classic Gratin Dauphinois](meals/french/gratin_dauphinois.yaml)
 
