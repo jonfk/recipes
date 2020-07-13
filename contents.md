@@ -55,7 +55,7 @@
 
 - [Ratatouille (confit Byaldi)](meals/vegetarian/ratatouille_confit_byaldi.yaml)
 - [Slow Cooked Aubergine](meals/vegetarian/slow-cooked-aubergine.yaml)
-- [Gratin Dauphinois](meals/vegetarian/gratin_dauphinois.yaml)
+- [Quicker Gratin Dauphinois](meals/vegetarian/jamie_oliver_gratin_dauphinois.yaml): Jamie Oliver's twist to gratin dauphinois with a bit more flavors
 
 ## Beef
 
@@ -104,6 +104,11 @@
 ## Tofu
 
 - [Pan Seared Egg Tofu “scallops” With Sweet Chile Sauce Recipe](meals/tofu/pan_seared_egg_tofu.yaml)
+
+## French
+
+- [Jacques Pépin's Maman's Cheese Soufflé](meals/french/souffle_de_maman_de_jacques_pepin.yaml): Quick and easy version of cheese soufflé
+- [Classic Gratin Dauphinois](meals/french/gratin_dauphinois.yaml)
 
 ## Chicken
 
