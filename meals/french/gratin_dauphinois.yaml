@@ -1,0 +1,30 @@
+name: Classic Gratin Dauphinois
+description:
+source: various
+links:
+  - https://youtu.be/idAUo_fyHW4?t=174
+  - https://youtu.be/2QCdN89DAYE
+ingredients:
+  - name: slightly waxy potatoes such as yukon gold
+  - name: cream
+  - name: black pepper
+  - name: nutmeg
+    optional: true
+  - name: Parmesan cheese
+timings:
+  - time: 3-12h
+    for: cooking
+notes:
+  - only a light dusting of Parmesan cheese, not much is needed. It can also be omitted from the French Cooking Academy's recipe
+  - The french cooking academy's recipe calls for brushing the pan with garlic as well as butter to give a little garlic flavour
+  - Jacques Pepin's recipe calls for pre boiled potatoes so that the potatoes are softer when cooked
+instructions:
+  - add black pepper and nutmeg to the cream
+  - slice the potatoes
+  - layer the potatoes and the cream
+  - light dusting of parmesan on top
+  - cook 300F for 90 to 120 mins
+times_made:
+  count: 1
+  dates:
+    - 2020-07-12
