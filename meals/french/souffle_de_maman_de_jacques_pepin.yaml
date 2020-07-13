@@ -1,0 +1,43 @@
+name: Jacques Pépin's Maman's Cheese Soufflé
+description: Quick and easy version of cheese soufflé
+source: Jacques Pépin
+links:
+  - https://youtu.be/0GAdCkLBqKk
+ingredients:
+  - name: eggs
+    quantity: 5 extra large or 6 large eggs
+  - name: flour
+    quantity: 6 tablespoons
+  - name: butter
+    quantity: 6 tablespoons
+  - name: gruyere cheese
+    quantity: 
+  - name: parmesan cheese
+    quantity: 
+  - name: whole milk
+    quantity: 2 cups
+  - name: ground black pepper
+    quantity: 1/2 teaspoon
+  - name: nutmeg
+    quantity: 1/4 teaspoon (maybe less)
+  - name: minced chives
+    quantity: 3 tablespoons
+  - name: salt
+    quantity: 1/2 teaspoon
+timings:
+  - time: 35-40mins
+    for: cooking
+notes:
+  - notes...
+instructions:
+  - Make the roux with the flour and butter
+  - Add nutmeg, ground black pepper and salt to the roux
+  - Beat eggs and add cooled down roux to the eggs
+  - Add chives and grated cheese
+  - Butter baking pan and dust with grated parmesan
+  - Add mixture to baking pan
+  - Bake at 375F for 35 to 40 mins
+times_made:
+  count: 1
+  dates:
+    - 2020-07-11
