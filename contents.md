@@ -83,6 +83,7 @@
 
 ## Pork
 
+- [Pad Ka Prao Moo (thai Basil Pork)](meals/pork/pad_ka_prao_moo.yaml)
 - [Pulled Pork](meals/pork/pulled_pork.yaml)
 - [Glazed Pork Chop](meals/pork/glazed_pork_chop.yml)
 - [Braised Pork Belly Chinese](meals/pork/braised_pork_belly_chinese.yaml)
