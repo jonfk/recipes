@@ -1,0 +1,33 @@
+name: Pad Ka-Prao Moo (Thai Basil Pork)
+description:
+source: Kenji Lopez-Alt
+links:
+  - https://youtu.be/Y2nZWveLIRA
+ingredients:
+  - name: Ground pork
+  - name: Garlic
+  - name: Shallots
+  - name: Thai Chillis
+  - name: Soy Sauce
+    quantity: 1 tablespoon
+  - name: Fish Sauce
+    quantity: 2 tablespoon
+  - name: Dark Soy Sauce
+    quantity: 1/2 tablespoon
+  - name: Thai Basil
+timings:
+  - time: 15-20mins
+    for: cooking
+notes:
+  - Can be served topped with a fried egg
+instructions:
+  - chop garlic, shallots and chillis and pound with mortal and pestle
+  - fry the aromatics until fragrant
+  - add the ground pork
+  - add the sauces
+  - cook until the sauce is lightly reduced
+  - add the thai basil
+times_made:
+  count: 1
+  dates:
+    - 2020-07-14
