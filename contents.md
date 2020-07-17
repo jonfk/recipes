@@ -153,6 +153,10 @@
 - [Spicy Sweet Sambal Pork Noodles](meals/noodles/spicy_sweet_sambal_pork_noodles.yaml)
 - [Pad See Ew](meals/noodles/pad_see_ew.yaml)
 
+## Mexican
+
+- [Flour Tortillas](meals/mexican/flour_tortillas.yaml)
+
 ## Breakfast
 
 - [Naan Sandwich](meals/breakfast/naan_sandwich.yml)
