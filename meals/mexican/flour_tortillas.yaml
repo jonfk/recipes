@@ -1,0 +1,36 @@
+name: Flour Tortillas
+description:
+source: Ethan Chlebowski
+links:
+  - https://youtu.be/9gaQfu_wPGw
+  - https://youtu.be/ynexTOjHbRs
+ingredients:
+  - name: White all purpose flour
+    quantity: 450g
+  - name: Baking powder
+    quantity: 6g
+  - name: fat (lard, butter or vegetable oil)
+    quantity: 88g
+  - name: salt
+    quantity: 6g
+  - name: warm water
+    quantity: 250ml
+timings:
+  - time: 3-12h
+    for: cooking
+notes:
+  - notes...
+instructions:
+  - mix the dry ingredients
+  - Add fat and mix with dry ingredients
+  - Add warm water
+  - knead for at least 6 minutes
+  - Let rest for at least 1h
+  - Cut into equal pieces
+  - Let rest for a bit
+  - Cook on a hot cast iron pan
+times_made:
+  count: 2
+  dates:
+    - 2020-07-15
+    - 2020-07-16
