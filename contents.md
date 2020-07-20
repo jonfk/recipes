@@ -1,6 +1,7 @@
 
 # Baking
 
+- [65% Hydration Dough](baking/65%_hydration_dough_pita_pizza.yaml): Can be used to make Pita or New York Style Pizza
 - [No Knead Bread](baking/no_knead_bread.yaml)
 - [Scones](baking/scones.yaml)
 - [Galette Des Rois Or Almond Cream Cake](baking/galette_des_rois.yaml)
