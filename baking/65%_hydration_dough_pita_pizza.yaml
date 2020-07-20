@@ -1,0 +1,32 @@
+name: 65% hydration dough
+description: Can be used to make Pita or New York Style Pizza
+source: Kenji Lopez-Alt
+links:
+  - https://www.seriouseats.com/recipes/2012/07/basic-new-york-style-pizza-dough.html
+ingredients:
+  - name: flour
+    quantity: 100%
+  - name: water
+    quantity: 65%
+  - name: salt
+    quantity: 2%
+  - name: yeast
+    quantity: 1%
+  - name: sugar
+    quantity: couple teaspoons
+timings:
+  - time: 2h
+    for: rise
+notes:
+  - Can be used to make pita, Pizza, calzone
+  - Currently my favorite dough for same day
+instructions:
+  - Let the yeast bloom in the water first
+  - Mix the rest of the ingredients
+  - Knead for about 7 minutes
+  - Let rest and rise for 2h
+  - Divide into portions and let rest for a few minutes
+times_made:
+  count: 2
+  dates:
+    - 
