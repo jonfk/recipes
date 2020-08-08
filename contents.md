@@ -75,6 +75,7 @@
 ## Japanese
 
 - [Mentsuyu (noodle Soup Base)](meals/japanese/Mentsuyu_noodle_soup_base.yaml)
+- [Inari Age And Aburaage](meals/japanese/inari_age_aburaage.yaml): A deep fried seasoned tofu that can be used in kitsune udon
 - [Oyakodon / Chicken And Egg Rice Bowl](meals/japanese/oyakodon.yaml)
 - [Tuna Mayo Onigiri](meals/japanese/tuna_mayo_onigiri.yaml)
 
