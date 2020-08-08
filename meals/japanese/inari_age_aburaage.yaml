@@ -1,0 +1,36 @@
+name: Inari Age and Aburaage
+description: A deep fried seasoned tofu that can be used in kitsune udon
+source: Just one cookbook
+links:
+  - https://www.justonecookbook.com/inari-age/
+ingredients:
+  - name: Firm tofu
+  - name: Peanut oil or any oil for deep frying
+  - name: dashi
+    quantity: 1 cup
+  - name: sugar
+    quantity: 5 tablespoons
+  - name: soy sauce
+    quantity: 3 tablespoons
+timings:
+  - time: 30mins
+    for: cooking
+notes:
+  - the aburaage can be used in a variety of dishes such as 
+  - Takikomi Gohan (mixed vegetables and meat cooked in rice)
+  - Oden (seafood hot pot)
+  - Ginger rice (rice cooked with ginger and dashi)
+  - inari sushi
+  - Kitsune udon
+  - Simply eaten with rice
+instructions:
+  - Bring oil to 160C or so
+  - Fry the outside to golden brown while leaving the inside somewhat less cooked
+  - Keep in a closed container to let steam and prevent the aburaage from hardening
+  - Mix the sugar, dashi and soy sauce in a pan and add aburaage to it
+  - put a drop lid or aluminium foil on top
+  - cook till liquid is reduced
+times_made:
+  count: 1
+  dates:
+    - 2020-08-06
