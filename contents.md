@@ -76,6 +76,7 @@
 
 - [Mentsuyu (noodle Soup Base)](meals/japanese/Mentsuyu_noodle_soup_base.yaml)
 - [Inari Age And Aburaage](meals/japanese/inari_age_aburaage.yaml): A deep fried seasoned tofu that can be used in kitsune udon
+- [Inari Age And Aburaage](meals/japanese/inar_age_aburaage.yaml): A deep fried seasoned tofu that can be used in kitsune udon
 - [Oyakodon / Chicken And Egg Rice Bowl](meals/japanese/oyakodon.yaml)
 - [Tuna Mayo Onigiri](meals/japanese/tuna_mayo_onigiri.yaml)
 
@@ -133,6 +134,7 @@
 
 - [Dan Dan Noodles By Kenji Lopez Alt](meals/chinese/dan_dan_noodles.yaml)
 - [Sticky Five Spice Chicken](meals/chinese/sticky_five_spice_chicken.yaml)
+- [Hujiao Bing (taiwanese Pepper Bun)](meals/chinese/hujiao_bing.yaml): A baked meat stuffed bun
 - [Sichuan Fish Fragrant Braised Eggplant](meals/chinese/sichuan_fish_fragrant_braised_eggplant.yaml): A Sichuanese classic deeply flavored with garlic, ginger, and pickled chilies, aromatics that are often associated with fish cookery
 - [Best Yangzhou Fried Rice](meals/chinese/best_yangzhou_fried_rice.yaml)
 - [Shrimp Mango Dumplings](meals/chinese/shrimp_mango_dumplings.yaml)
