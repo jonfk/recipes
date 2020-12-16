@@ -3,6 +3,7 @@
 
 - [65% Hydration Dough](baking/65%_hydration_dough_pita_pizza.yaml): Can be used to make Pita or New York Style Pizza
 - [No Knead Bread](baking/no_knead_bread.yaml)
+- [Burger Bun By Joshua Weissman](baking/burger_bun.yaml)
 - [Scones](baking/scones.yaml)
 - [Galette Des Rois Or Almond Cream Cake](baking/galette_des_rois.yaml)
 - [Focaccia (italian Flat Bread)](baking/focaccia.yaml)
@@ -48,6 +49,7 @@
 - [Jiapaguri Aka Ramdon From Parasite](meals/korean/jiapaguri_aka_ramdon.yaml)
 - [Gamja Jorim (soy Sauce Braised Potato Banchan)](meals/korean/potato_banchan_gamja_jorim.yaml)
 - [Budae Jigae (korean Army Base Stew)](meals/korean/korean_army_base_stew_budae_jigae.yml)
+- [Fried Tofu In Sauce](meals/korean/fried_tofu_in_sauce.yaml): Fried tofu in a soy sauce and gochugaru garlic sauce
 - [Easy Family Style Japchae](meals/korean/japchae.yaml): Easy version cooked all in a pot
 - [Bibimbap Or Gochujang Korean Sauce](meals/korean/bibimbap_gochujang_sauce.yaml)
 - [Kimchi Fried Rice / Kimchi Bokkeumbap](meals/korean/kimchi_fried_rice.yaml)
@@ -151,6 +153,7 @@
 
 - [Miso Salmon](meals/fish/miso_salmon.yaml)
 - [Salmon Coulibiac](meals/fish/salmon_coulibiac.yaml)
+- [Seabass In Cream Sauce](meals/fish/seabass_in_cream_sauce.yaml)
 
 ## Noodles
 
