@@ -1,0 +1,36 @@
+name: Seabass in Cream Sauce
+description:
+source: Inspired by https://youtu.be/EICkkbBYvZI
+links:
+  - https://youtu.be/EICkkbBYvZI
+ingredients:
+  - name: seabass
+  - name: cream
+  - name: white wine
+  - name: butter
+  - name: lemon juice
+  - name: shallots
+  - name: garlic
+  - name: peas
+    optional: true
+timings:
+  - time: 30mins
+    for: cooking
+notes:
+  - The fish should be skin on to create a crispy skin. The fish doesn't have skin, you can lightly coat it in flour before frying it
+  - Seabass can be replaced with other kind of fish
+  - Some potatoes goes well with this, scalloped, baked or mashed
+  - The cream sauce can be blitzed so that the sauce is extra emulsified and creamy
+instructions:
+  - pan fry the fish
+  - take out the fish and let rest
+  - Add chopped shallots and garlic
+  - Deglaze with some white wine
+  - Add butter and reduce
+  - Add cream
+  - At this point, the sauce can be blitzed in a blender or with a hand blender if there is enough sauce
+  - Add peas to sauce or on side of plate
+times_made:
+  count: 1
+  dates:
+    - 2020-09-17
