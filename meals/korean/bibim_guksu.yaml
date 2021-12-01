@@ -1,0 +1,36 @@
+
+name: Bibim Guksu
+description: Korean mixed noodles
+source: Amy first saw it eaten by Tzuyang
+links:
+  - https://youtu.be/HRqiND6h_BE?t=207
+  - https://youtu.be/IP187wjY9Os
+  - https://youtu.be/KAhA_121yCI
+ingredients:
+  - name: Korean Wheat Noodles (Somyeon)
+    quantity: 200g per 2 person
+  - name: minced garlic
+  - name: gochujang
+  - name: vinegar
+  - name: sesame oil
+  - name: soy sauce
+  - name: sugar
+  - name: sesame seeds
+  - name: kimchi, chopped
+  - name: cucumbers, chopped
+  - name: dried seaweed
+  - name: boiled egg
+timings:
+  - time: 30min
+    for: cooking and prep
+notes:
+  - any protein can be added to it. Fried egg, chicken, pork, etc
+instructions:
+  - make the sauce. Can be done in advance
+  - prep the ingredients. Boiled eggs, cucumbers, kimchi and seaweed
+  - boil the noodles and rinse with cold water
+  - mix together
+times_made:
+  count: 1
+  dates:
+    - 2021-11-29
