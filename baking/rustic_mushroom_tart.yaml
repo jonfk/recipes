@@ -1,0 +1,28 @@
+name: Rustic Mushroom Tart
+description: Inspired from watching the movie Pig
+source: multiple
+links:
+  - [Pie Crust Recipe](./pie_crust.yaml)
+ingredients:
+  - name: mushroom
+    quantity: 
+  - name: leeks
+    quantity: 2
+  - name: chickpeas
+  - name: butter
+  - name: ricotta
+  - name: goat cheese
+  - name: rosemary
+timings:
+  - time: 30-45mins
+    for: cooking
+notes:
+  - notes...
+instructions:
+  - Saute the mushroom and leeks in butter until much of the water content of them have evaporated
+  - Add the chickpeas and keep cooking until some browning
+  - take out and cool down before adding the ricotta and goat cheese
+times_made:
+  count: 1
+  dates:
+    - 2021-12-20

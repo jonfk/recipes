@@ -1,0 +1,29 @@
+name: Pie Crust
+description:
+source: Bon Appetit Carla Lalli Music
+links:
+  - https://youtu.be/GzEzNffkUhw
+ingredients:
+  - name: Butter
+    quantity: 1 stick / 110g
+  - name: salt
+    quantity: 1/2 teaspoon
+  - name: sugar
+    quantity: 1 teaspoon
+  - name: flour
+    quantity: 1 cup / 120g
+  - name: water
+    quantity: 3 tablespoon
+timings:
+  - time: 10mins
+    for: prep
+notes:
+  - 
+instructions:
+  - freeze butter
+  - mix all mixture
+  - refrigerate
+times_made:
+  count: 1
+  dates:
+    - 2021-12-20
