@@ -2,7 +2,9 @@ name: Rustic Mushroom Tart
 description: Inspired from watching the movie Pig
 source: multiple
 links:
-  - [Pie Crust Recipe](./pie_crust.yaml)
+  - ./pie_crust.yaml
+  - https://www.eatingwell.com/recipe/249415/rustic-mushroom-tart/
+  - https://www.monpetitfour.com/mushroom-galette-recipe/
 ingredients:
   - name: mushroom
     quantity: 
