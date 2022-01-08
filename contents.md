@@ -25,6 +25,7 @@
 - [Bon Appetit Grandma Style Pizza Dough](baking/pizza/bon_appetit_grandma_pizza_dough.yaml)
 - [Potato Rosemary Pizza](baking/pizza/potato_rosemary_pizza.yaml)
 - [Thick Crust Pizza / Sicilian Pizza / Grandma Pizza](baking/pizza/thick_crust_pizza.yaml)
+- [Tartine Pizza](baking/pizza/tartine_high_hydration_pizza.yaml): A high hydration pizza with low manipulation of dough and bread dough as base
 
 # Desserts
 
