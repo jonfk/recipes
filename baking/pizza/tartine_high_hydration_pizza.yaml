@@ -1,0 +1,30 @@
+name: Tartine Pizza
+description: A high hydration pizza with low manipulation of dough and bread dough as base
+source: From the Chef Episode Tartine with Chad Robertson
+links:
+  - 
+ingredients:
+  - name: 80% hydration
+    quantity: 
+timings:
+  - time: 10mins
+    for: cooking
+  - time: 6-10h
+    for: rising
+notes:
+  - 100% hydration dough was used in the episode. Tried with 80% for first try.
+  - Usual percent for dough, 2% salt, 0.5% yeast,
+  - Should try with sourdough
+  - Toppings tried are onions and lemon
+  - Tomato, basil and cheese
+instructions:
+  - mix dough. Periodically do the lift and fold several times before bulk fermentation
+  - After bulk fermentaiton, form dough being careful to create tension on the dough
+  - Put in fermentation baskets and refridgerate until ready
+  - Put dough onto surface that will side into the oven
+  - Poke dough like a focaccia, leaving it somewhat thick but slightly flattened
+  - Put toppings and into the oven
+times_made:
+  count: 1
+  dates:
+    - 
