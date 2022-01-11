@@ -8,6 +8,7 @@ ingredients:
   - name: Biscuits (See [[ baking/cream_biscuits.yaml ]])
   - name: Butter
   - name: Flour
+  - name: Salt and Pepper
 timings:
   - time: 3-12h
     for: cooking
