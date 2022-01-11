@@ -1,0 +1,26 @@
+name: Cream Biscuits
+description: An easy to make southern-style biscuit recipe
+source: From Kenji Lopez-Alt
+links:
+  - https://www.youtube.com/watch?v=BoFkDmTm2uc
+ingredients:
+  - name: Flour
+    quantity: 1 cup (about 120g)
+  - name: Salt
+    quantity: 1/4 teaspoon
+  - name: Baking Powder
+    quantity: 1.5 teaspoons 
+  - name: Heavy Cream
+    quantity: 120g
+timings:
+  - time: 3-12h
+    for: cooking
+notes:
+  - Makes about 3 biscuits
+instructions:
+  - Mix ingredients
+  - Bake at 400F for 15mins
+times_made:
+  count: 1
+  dates:
+    - 

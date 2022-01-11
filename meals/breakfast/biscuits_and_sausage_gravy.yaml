@@ -1,0 +1,25 @@
+name: Biscuits and Sausage Gravy
+description: A simple southern style 5 ingredient Biscuits and Sausage gravy
+source: Kenji Lopez-Alt
+links:
+  - https://www.youtube.com/watch?v=BoFkDmTm2uc
+ingredients:
+  - name: Breakfast sausage
+  - name: Biscuits (See [[ baking/cream_biscuits.yaml ]])
+  - name: Butter
+  - name: Flour
+timings:
+  - time: 3-12h
+    for: cooking
+notes:
+  - notes...
+instructions:
+  - Make the biscuits
+  - Cook the breakfast sausage
+  - Add Butter
+  - Add same amount of flour
+  - Add cream or milk
+times_made:
+  count: 1
+  dates:
+    - 
