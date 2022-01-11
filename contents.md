@@ -3,6 +3,7 @@
 
 - [Pie Crust](baking/pie_crust.yaml)
 - [Focaccia (italian Flat Bread)](baking/focaccia.yaml)
+- [Cream Biscuits](baking/cream_biscuits.yaml): An easy to make southern-style biscuit recipe
 - [Burger Bun By Joshua Weissman](baking/burger_bun.yaml)
 - [No Knead Bread](baking/no_knead_bread.yaml)
 - [Scones](baking/scones.yaml)
@@ -108,6 +109,7 @@
 
 ## Breakfast
 
+- [Biscuits And Sausage Gravy](meals/breakfast/biscuits_and_sausage_gravy.yaml): A simple southern style 5 ingredient Biscuits and Sausage gravy
 - [Breakfast Hash](meals/breakfast/breakfast_hash.yaml)
 - [Twin Peaks Pancakes](meals/breakfast/fluffy_pancakes.yaml)
 - [Pancakes](meals/breakfast/jamie_oliver_pancakes.yml)
