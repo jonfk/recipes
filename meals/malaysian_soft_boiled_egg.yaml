@@ -1,0 +1,22 @@
+name: Malaysian style soft boiled egg
+description: An egg best eated with toast (kaya or otherwise) served in Malaysian/singapore coffee shops such as Toast Box
+source: 
+links:
+  - 
+ingredients:
+  - name: egg
+  - name: water
+timings:
+  - time: 10min
+    for: cooking
+notes:
+  - notes...
+instructions:
+  - Put egg with some tap water in pot
+  - Pour boiling water until water is roughly 75-80C
+  - Maintain 75C for 10mins
+  - Cool egg with cold water and crack open in a bowl
+times_made:
+  count: 1
+  dates:
+    - 
