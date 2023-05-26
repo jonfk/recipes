@@ -15,10 +15,10 @@ ingredients:
   - name: salt
     quantity: 1/2 teaspoon
 timings:
-  - time: 35-40mins
-    for: baking at 325F
   - time: 30mins
     for: prep
+  - time: 35-40mins
+    for: baking at 325F
   - time: 1-2h
     for: cool
 notes:

@@ -31,6 +31,7 @@
 # Desserts
 
 - [Frozen Vanilla Custard / Vanilla Ice Cream](desserts/vanilla_ice_cream.yml)
+- [Creme Caramel](desserts/creme_caramel.yaml): Whole eggs creme caramel from Claire Saffitz
 
 ## Baking
 
