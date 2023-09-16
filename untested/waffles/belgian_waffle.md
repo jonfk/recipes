@@ -14,6 +14,8 @@ To make your poolish, measure water, yeast, and flour into a high sided containe
 
 WAFFLE BATTER
 
+The default quantities make about 6-7 waffles in the Presto Flipside waffle maker.
+
 |Ingredient|Quantity|Baker's Percent Approx.|
 |---|---|---|
 |AP flour|275g|100|
