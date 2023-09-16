@@ -5,13 +5,15 @@
 From Brian Lagerstrom https://youtu.be/Mq6xwcjYQD4?si=-YBdgTBuNoL6SVea
 
 POOLISH
+
 * 200g or 3/4c water, room temp
 * Instant yeast (small pinch) 
 * 200g or 1 1/4c AP flour (11.7% protein)
 
 To make your poolish, measure water, yeast, and flour into a high sided container. Stir to combine. Allow to sit, covered, at room temp for 12-24 hours. 
 
-WAFFLE BATTER: 
+WAFFLE BATTER
+
 |Ingredient|Quantity|Baker's Percent Approx.|
 |---|---|---|
 |AP flour|275g|100|
