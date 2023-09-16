@@ -56,12 +56,14 @@ Same batter except vanilla
 ### Extras
 
 Berry Compote
+
 * 350g or 1bag of frozen mixed berries 
 * Splash of water 
 * 25g or 1 heaping Tbsp maple syrup
 * 25g or 1 3/4Tbsp  lemon juice 
 
 CHEESECAKE WHIPPED CREAM
+
 * 225g or 8oz cream cheese 
 * 150g or 3/4c heavy cream 
 * Pinch of salt
