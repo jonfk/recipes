@@ -12,6 +12,8 @@
 
 I tried it with pistachios and half dark/half milk chocolate and it turned out amazing.
 
+Idea from [korean street food video](https://youtu.be/DgAoC4xT-64?si=7xyxX6oHU8NJiDGu) try matcha, cashew and white chocolate version.
+
 ## Ingredients (8 cookies)
 - ½ cup (112g) butter, slightly softened
 - 1 cup (200g) light brown sugar
