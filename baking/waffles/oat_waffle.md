@@ -1,4 +1,10 @@
 
+## Notes
+
+Both recipes are very similar or essentially the same. The oat waffles turned out a little less crispy than I would have preferred but that may have been because I halved the recipe but used more egg ratio than the actual recipe. Might need to retry. 
+
+I would also add more regular rolled oats to the recipe.
+
 ## Kylee Cooks
 
 From https://www.kyleecooks.com/fresh-oatmeal-waffles/
