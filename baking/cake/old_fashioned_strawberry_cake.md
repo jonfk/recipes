@@ -16,7 +16,11 @@ I would try different fruits to this cake recipe. Strawberry is nice but gives a
 
 I replaced a little bit of the flour with whole wheat pastry flour and it turned out pretty well.
 
+### Ideas to try
+
 Try it with nuts next time?
+
+Try it with cooked caramelized apples on top, kinda like an apple pie.
 
 ## Equipment
 
