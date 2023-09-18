@@ -1,5 +1,16 @@
-https://www.hijabsandaprons.com/food/levain-bakery-cookies
+# Hijab and aprons levain chocolate and walnut cookies
 
+- https://www.hijabsandaprons.com/food/levain-bakery-cookies
+
+ ## Notes
+
+- This recipe already has less sugar than usual recipes
+- Do not reduce sugar or salt. You can still dust with flaky salt after even with the regular amount in this recipe
+- Add a little less walnuts or chop them more finely
+- lots of recipes add more butter, could add a little more
+- tried it with browned and chilled butter, turned out well but given how little butter there is, it didn't pop out
+
+I tried it with pistachios and half dark/half milk chocolate and it turned out amazing.
 
 ## Ingredients (8 cookies)
 - ½ cup (112g) butter, slightly softened
@@ -29,11 +40,3 @@ https://www.hijabsandaprons.com/food/levain-bakery-cookies
 - If you erred on the side of caution and took the cookies out when they are lighter/too light, let them cool/set in the baking sheet for 15 minutes before serving. If you took them out at the perfect or later time, you can carefully transfer them to a cooling rack after 4-5 minutes of cooling/setting in the pan.
 - If you need to reuse your baking sheet for the second batch of 4-cookies, you can do so. Just make sure the pan is clean of grease and has cooled down before you place the dough-balls on it.
  - Lastly, if you’d like to save half of the dough for later in the week, go right ahead. To be completely honest, I’ve never done this because I always have people around me to scarf down the cookies; so I can’t tell you how many days the dough will be good for. I wouldn’t recommend refrigerating it for longer than a week, though.
-
- ## Notes
-
-- This recipe already has less sugar than usual recipes
-- Do not reduce sugar or salt. You can still dust with flaky salt after even with the regular amount in this recipe
-- Add a little less walnuts or chop them more finely
-- lots of recipes add more butter, could add a little more
-- tried it with browned and chilled butter, turned out well but given how little butter there is, it didn't pop out
