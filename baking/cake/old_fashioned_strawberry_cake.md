@@ -17,6 +17,12 @@ I replaced a little bit of the flour with whole wheat pastry flour and it turned
 
 Try it with nuts next time?
 
+## Equipment
+
+* Requires a stand or hand mixer to cream the butter and sugar and eggs
+* Definitely needs parchment paper so that it doesn't stick
+* Needs a shallow pan to cook. Not loaf pans unless mini
+
 ## Ingredients
 
 |Ingredient|Quantity|Notes|
