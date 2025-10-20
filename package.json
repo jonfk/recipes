@@ -1,0 +1,11 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "scripts": {
+    "fmt": "prettier --write \"**/*.{json,md,yaml,yml}\""
+  }
+}
