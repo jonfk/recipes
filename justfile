@@ -13,3 +13,4 @@ clean:
 
 fmt:
     pnpm run fmt
+    cd recipe_index && cargo fmt

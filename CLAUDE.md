@@ -14,26 +14,32 @@ This is a personal recipe collection stored in YAML format, organized by categor
 # Build the recipe indexer
 cd recipe_index && cargo build --release
 
-# Or use the Makefile target
-make build
+# Or use the Just recipe
+just build
 ```
 
 ### Updating the Table of Contents
 
 ```bash
 # Generate/update contents.md and recipes.json from all recipe YAML files
-make update-contents
+just update-contents
 
 # Or run directly (requires building first)
 ./index-recipes > contents.md
 ```
 
-The `update-contents` target is the default make target, so you can also just run `make`.
+The `update-contents` recipe is the default, so you can also just run `just`.
 
 ### Cleaning Build Artifacts
 
 ```bash
-make clean
+just clean
+```
+
+### Formatting Markdown, YAML, JSON, rust, and justfile
+
+```bash
+just fmt
 ```
 
 ## Recipe Structure
