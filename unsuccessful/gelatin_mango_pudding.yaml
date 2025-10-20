@@ -1,10 +1,25 @@
-from https://youtu.be/A24Ox7hN10U
-
-2 cups mango
-sugar to taste
-gelatin
-1/3 cup coconut milk
-water to bloom gelatin
-fresh fruit to garnish
-
-Failed. It didn't set or taste very good.
+name: Gelatin Mango Pudding
+description: Attempted gelatin-based mango pudding that failed to set.
+source: YouTube
+links:
+  - https://youtu.be/A24Ox7hN10U
+ingredients:
+  - name: mango
+    quantity: 2 cups
+  - name: sugar
+    quantity: to taste
+  - name: gelatin
+    quantity: as needed
+  - name: coconut milk
+    quantity: 1/3 cup
+  - name: water
+    quantity: to bloom gelatin
+  - name: fresh fruit
+    quantity: for garnish
+notes:
+  - Failed attempt; mixture did not set and flavor was not good.
+instructions:
+  - Followed the video method; pudding never set and was not pleasant.
+times_made:
+  count: 1
+  dates: []

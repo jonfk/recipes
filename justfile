@@ -2,7 +2,7 @@ set shell := ["bash", "-lc"]
 
 alias default := update-contents
 
-update-contents:
+update-contents: build
     ./index-recipes > contents.md
 
 build:
