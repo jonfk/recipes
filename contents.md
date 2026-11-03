@@ -178,6 +178,7 @@
 
 ## Breakfast
 
+- [Easy Berry Chia Jam](meals/breakfast/chia_jam.yaml): Berry jam thickened with chia seeds
 - [Naan Sandwich](meals/breakfast/naan_sandwich.yml)
 - [Twin Peaks Pancakes](meals/breakfast/fluffy_pancakes.yaml)
 - [Biscuits And Sausage Gravy](meals/breakfast/biscuits_and_sausage_gravy.yaml): A simple southern style 5 ingredient Biscuits and Sausage gravy
